@@ -5,7 +5,7 @@ echo "joseph13g" > ~/.github/aws-bootstrap-owner
 echo "25c7bd949764a823161c1756333b9fa34f2eaf79" > ~/.github/aws-bootstrap-access-token
 
 STACK_NAME=awsbootstrap
-REGION=us-east-1 
+REGION=eu-north-1 
 CLI_PROFILE=awsbootstrap
 EC2_INSTANCE_TYPE=t2.micro 
 
